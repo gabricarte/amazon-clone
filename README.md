@@ -17,6 +17,7 @@ This Amazon clone has the following features:
 - React.js for building the user interface
 - CSS for styling and layout
 - Firebase Authentication
+- Context API 
 
 ## Credits
 
